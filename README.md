@@ -17,7 +17,7 @@ Olá, sou João Victor Effting, um apaixonado por tecnologia e desenvolvedor de 
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
-1. [Portal do Aluno]([link para o projeto](https://github.com/joaoeffs/portal-aluno-java)) - Portal do Aluno desenvolvido para o TCC (Trabalho de Conlusão de Curso)
+1. ([Portal do Aluno](https://github.com/joaoeffs/portal-aluno-java)) - Portal do Aluno desenvolvido para o TCC (Trabalho de Conlusão de Curso)
 
 
 ## Contato
