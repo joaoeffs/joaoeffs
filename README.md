@@ -5,7 +5,7 @@ Olá, sou João Victor Effting, um apaixonado por tecnologia e desenvolvedor de 
 ## Sobre Mim
 
 - 🌟 **Experiência:** Desde 2021 na área de desenvolvimento de software.
-- 💼 **Trabalho:** TOTVS - Desenvolvedor de Software Junior.
+- 💼 **Trabalho:** TOTVS - Desenvolvedor de Software.
 - 🎓 **Educação:** Bacharel em Engenharia de Software pela Católica de Santa Catarina.
 
 ## Habilidades
@@ -18,7 +18,6 @@ Olá, sou João Victor Effting, um apaixonado por tecnologia e desenvolvedor de 
 Aqui estão alguns dos meus projetos mais interessantes:
 
 1. ([Portal do Aluno](https://github.com/joaoeffs/portal-aluno-java)) - Portal do Aluno desenvolvido para o TCC (Trabalho de Conlusão de Curso)
-
 
 ## Contato
 
